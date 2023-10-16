@@ -1,10 +1,8 @@
-### Yoo, I'm Hays Chan 👋
+### Yoo, I'm Geralt geroge 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/GE-fighting)
-
-- 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
-- ⚡ C++ / Python.
-- 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
+- 🍻 I am currently a graduate student, and my research and interest area is distributed databases. Currently, the popular vector database is also within the scope of my research
+- ⚡ java/go/rust > C++ > python > C
+- 🖋 The latest projects are [nimbuskv](https://haysc.tech)) and kipsql. In the future, I will focus on Nimbus-kv and kipData (kipSQL and KipDB).
 - ✍️ [Blogger](https://haysc.tech)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
