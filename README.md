@@ -1,6 +1,6 @@
 ### Yoo, I'm Geralt geroge 👋
 
-- 🍻 I am currently a graduate student, and my research and interest area is distributed databases. Currently, the popular vector database is also within the scope of my research
+- 🍻 I am currently a graduate student, and my research and interest area is distributed databases. Currently, the real-time analysis system is also within the scope of my research
 - ⚡ java/go/rust > C++ > python > C
 - 🖋 The latest projects are [nimbus-kv](https://github.com/GE-fighting/nimbus-kv) and [KipData](https://github.com/KipData) (kipSQL and KipDB). 
 - ✍️ [Blogger](https://ge-fighting.github.io/) I will share my learning process on it, discuss knowledge and enjoy life with everyone
