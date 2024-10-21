@@ -1,6 +1,6 @@
 ### Yoo, I'm Geralt geroge 👋
 
-- 🍻 I am a software development engineer working in the cybersecurity industry, with a keen interest in** DDoS protection**, **distributed systems**, **cloud computing**, **stream computing**, as well as** database** (SQL and storage engines). I am open to exchanges and eager to learn from others in these fields.
+- 🍻 I am a software development engineer working in the cybersecurity industry, with a keen interest in**DDoS protection**, **distributed systems**, **cloud computing**, **stream computing**, as well as**database** (SQL and storage engines). I am open to exchanges and eager to learn from others in these fields.
 - ⚡ Proficient in **Java**, **Go**, and **Rust**.
 - ✍️ [Blogger](https://ge-fighting.github.io/) I will share my learning process on it, discuss knowledge and enjoy life with everyone
 - 🎇 The recommended plan for learning databases is [DSCLab-新生培养计划-old](https://github.com/CDDSCL-Robot/training-plan) and  [DSCLab-新生培养计划-new](https://github.com/CDDSCLab/training-plan). I will continue my learn according to this plan later;
